@@ -4,6 +4,10 @@
 
 A fully working shopping cart built with **JavaScript DOM events** on top of the HTML provided for the checkpoint.
 
+### 🔗 [Live demo](https://hakimathamnia.github.io/DOM-Project-1/)
+
+Try the cart directly in your browser: https://hakimathamnia.github.io/DOM-Project-1/
+
 ## Features
 
 | # | Feature | How it works |
